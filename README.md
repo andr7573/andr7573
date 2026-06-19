@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm currently learning how to code
+
 <!--
 **andr7573/andr7573** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
